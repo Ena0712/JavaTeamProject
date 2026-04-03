@@ -12,3 +12,46 @@ Project Name: Bakery categorized inventory listing System
 This is a product inventory management list system for personal bakeries designed to facilitate inventory management by cataloging and classifying products while simultaneously managing and listing individual product information. It allows for the readable viewing of product inventory, sales volume by category, and total sales, and enables list functions such as adding and deleting menu items. It can also be used as an auxiliary program to increase the accuracy of calculating bread production quantities. The Bakery Selling Main Class serves as the header, with Dessert and Bread classes arranged to assign individual inventory to each class.
 
 <img width="774" height="841" alt="Bakery System drawio" src="https://github.com/user-attachments/assets/9e3ee321-18f5-4fb7-a11c-263ca895c34b" />
+
+베이커리 셀링 메인 시스템(Bakery Selling Main System)
+-잔체 재고량(Total Stock)
+-전체 판매량(Total Sales)
+
+
+디저트(Dessert)
+-전체 재고량(Total Category Stock)
+-전체 판매량(Total Category Sales)
+
+-케이크(Cake)
+  -이름(Name)
+  -가격(Price)
+  -무게(Weight)
+  -조각/홀(Type: Piece/Whole)
+  -사이즈(Size)
+  -재고수량(Stock Quantity)
+  -판매량 (Sales)
+
+-핑거푸드(Pinger Food)
+  -이름(Name)
+  -가격(Price)
+  -무게(Weight)
+  -재고수량(Stock Quantity)
+  -판매량(Sales)
+
+
+브레드(Bread)
+-잔체 재고량(Total Category Stock)
+-전체 판매량(Total Category Sales)
+
+-밀 브레드(Meal Bread)
+  -이름(Name)
+  -가격(Price)
+  -무게(Weight)
+  -재고수량(Stock Quantity)
+  -판매량(Sales)
+-논밀 브레드(Non-meal Bread)
+  -이름(Name)
+  -가격(Price)
+  -무게(Weight)
+  -재고수량(Stock Quantity)
+  -판매량(Sales)
