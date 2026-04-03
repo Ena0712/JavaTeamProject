@@ -1,2 +1,5 @@
 # JavaTeamProject
-page for team project in java programming
+22500738 최이나
+윤세나
+
+프로젝트 제목: Bakery categorized inventory System
