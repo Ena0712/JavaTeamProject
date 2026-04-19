@@ -5,12 +5,12 @@ class Product {
     protected int stock;
     protected int sold;
 
-    public Product(String name, int price, double weight, int stock) {
-        this.name = name;
-        this.price = price;
-        this.weight = weight;
-        this.stock = stock;
-        this.sold = 0;
+    public Product(String n, int p, double w, int s) {
+        name = n;
+        price = p;
+        weight = w;
+        stock = s;
+        sold = 0;
     }
 
     public void addStock(int amount) {
