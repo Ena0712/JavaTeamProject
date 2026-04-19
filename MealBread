@@ -1,0 +1,8 @@
+package Bakery;
+
+public class MealBread extends Bread {
+
+    public MealBread(String name, int price, double weight, int stack) {
+        super(name, price, weight, stack);
+    }
+}
