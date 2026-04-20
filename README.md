@@ -1,11 +1,10 @@
 # JavaTeamProject
 
-22500738 최이나
-
-22500454 윤세나
-
-
-Project Name: Bakery categorized inventory listing System
+TItle: Inventory Stock System for Bakery
+  
+  
+  Project member: 22500454 윤세나, 22500738 최이나
+  
 
 개인 베이커리샵을 위한 상품 재고 관리 리스트 시스템으로 상품을 목록화하여 분류함과 동시에 각 상품의 개별 정보를 관리, 리스트화하여 재고관리의 편의를 위한 프로그램이다. 상품 재고의 관리와 카테고리별 판매량, 총 판매량 등을 가독성있게 확인할 수 있으며 메뉴의 추가 삭제등 리스트 기능이 가능하다. 빵 제작 개수 계산의 정확도를 증가시키기위한 보조 프로그램으로도 사용이 가능하다. 베이커리 셀링 메인 클래스를 헤더로 디저트 클래스, 브래드 클래스를 배치해 각 클래스에 개별 재고를 속하게 한다.
 
@@ -55,3 +54,4 @@ This is a product inventory management list system for personal bakeries designe
   -무게(Weight)
   -재고수량(Stock Quantity)
   -판매량(Sales)
+
