@@ -1,8 +1,0 @@
-package Bakery;
-
-public class NoneMealBread extends Bread {
-
-    public NoneMealBread(String name, int price, double weight, int stack) {
-        super(name, price, weight, stack);
-    }
-}

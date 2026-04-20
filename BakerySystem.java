@@ -9,7 +9,7 @@ public class BakerySystem {
 
     public void run() {
         while (true) {
-            System.out.println("\n=== 🍞 베이커리 통합 재고 관리 시스템 🍞 ===");
+            System.out.println("\n< 베이커리 통합 재고 관리 시스템 >ㅏ");
             System.out.println("1. 상품 등록 (빵/케이크)");
             System.out.println("2. 전체 재고 조회");
             System.out.println("3. 상품 판매");
@@ -77,5 +77,4 @@ public class BakerySystem {
         }
         System.out.println("총 누적 매출: " + total + "원");
     }
-}
 }
