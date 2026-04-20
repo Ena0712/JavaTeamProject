@@ -1,9 +1,11 @@
 # JavaTeamProject
 
 TItle: Inventory Stock System for Bakery
+
   
   
   Project member: 22500454 윤세나, 22500738 최이나
+  
   link: https://youtu.be/kHrKCI7Fy4Q
   
 
