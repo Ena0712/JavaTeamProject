@@ -22,7 +22,7 @@ When program start, the screen will show you menu.
 You can control system with numbers on menu.
 
 
-1.Add Category of Stock
+1. Add Category of Stock
 
 2. Show list of Stocks
 
@@ -31,6 +31,8 @@ You can control system with numbers on menu.
 4. Show Sold Items
 
 0. Quit the Program
+
+   
 
 - Add Category of Stock
 
