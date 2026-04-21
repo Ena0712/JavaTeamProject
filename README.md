@@ -19,10 +19,39 @@ This is a product inventory management list system for personal bakeries designe
 User Guide for Program
 
 When program start, the screen will show you menu.
-
 You can control system with numbers on menu.
 
+
 1.Add Category of Stock
+
 2. Show list of Stocks
+
 3. Sell Items
-4. Show
+ 
+4. Show Sold Items
+
+0. Quit the Program
+
+- Add Category of Stock
+
+  You can add a new item category by entering its name, price, weight, and basic stock quantity.
+
+
+- Show List of Stocks  
+
+  You can view the complete list of all item categories you have added.
+
+
+- Sell Items
+
+  Use this option to sell items. You can check which item was sold and how many were sold.
+
+
+- Show Sold Items
+
+  View the list of all sold items. Check how many items were sold, which item sold the most, or the total sales amount.
+
+
+- Quit the Program
+
+  Quit the program when you finish your work. All data will be discarded.
