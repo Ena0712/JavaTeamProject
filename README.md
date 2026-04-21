@@ -13,6 +13,16 @@ TItle: Inventory Stock System for Bakery
 
 This is a product inventory management list system for personal bakeries designed to facilitate inventory management by cataloging and classifying products while simultaneously managing and listing individual product information. It allows for the readable viewing of product inventory, sales volume by category, and total sales, and enables list functions such as adding and deleting menu items. It can also be used as an auxiliary program to increase the accuracy of calculating bread production quantities. The Bakery Selling Main Class serves as the header, with Dessert and Bread classes arranged to assign individual inventory to each class.
 
-<img width="774" height="841" alt="Bakery System drawio" src="https://github.com/user-attachments/assets/9e3ee321-18f5-4fb7-a11c-263ca895c34b" />
 
 <img width="774" height="851" alt="TermProject다이아그램" src="https://github.com/user-attachments/assets/a17dbd8a-64b4-474f-9f2c-f77806d93337" />
+
+User Guide for Program
+
+When program start, the screen will show you menu.
+
+You can control system with numbers on menu.
+
+1.Add Category of Stock
+2. Show list of Stocks
+3. Sell Items
+4. Show 
