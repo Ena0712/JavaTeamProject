@@ -25,4 +25,4 @@ You can control system with numbers on menu.
 1.Add Category of Stock
 2. Show list of Stocks
 3. Sell Items
-4. Show 
+4. Show
