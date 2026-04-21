@@ -32,7 +32,7 @@ You can control system with numbers on menu.
 
 0. Quit the Program
 
-   
+   -------------------------------------------
 
 - Add Category of Stock
 
