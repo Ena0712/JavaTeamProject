@@ -15,3 +15,4 @@ This is a product inventory management list system for personal bakeries designe
 
 <img width="774" height="841" alt="Bakery System drawio" src="https://github.com/user-attachments/assets/9e3ee321-18f5-4fb7-a11c-263ca895c34b" />
 
+<img width="774" height="851" alt="TermProject다이아그램" src="https://github.com/user-attachments/assets/a17dbd8a-64b4-474f-9f2c-f77806d93337" />
